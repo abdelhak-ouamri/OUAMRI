@@ -1,0 +1,2 @@
+# OUAMRI
+ Bonjour, j'utilise la version 1.7 pour ma boutique, j'ai rencontré un problème lors de la configuration de mon objectif ADS, je n'arrive pas à trouver les variables qui se trouvent sur la page de remerciements après achats ou confirmation d'achats , j'ai sollicité l'aide du support google , leurs développer m'avait bien demandé d'ouvrir un ticket auprès prestashop en leur demandant ces variable. Y a t-il une personne qui peut m'aider . MERCI 
